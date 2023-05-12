@@ -13,6 +13,7 @@ El repositorio contiene las siguientes herramientas:
 - **Log Analyzer** - Analiza los logs de seguridad para detectar patrones sospechosos.
 - **Encryption Tool** - Cifra y descifra archivos utilizando diferentes algoritmos de cifrado.
 - **Evilness check** - Comprueba la existencia de posibles archivos maliciosos en un directorio.
+- **Password Check** - Analiza una contraseña para determinar si es o no segura.
 
 ## Requisitos
 
