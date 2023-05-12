@@ -12,6 +12,7 @@ El repositorio contiene las siguientes herramientas:
 - **Password Generator** - Genera contraseñas seguras.
 - **Log Analyzer** - Analiza los logs de seguridad para detectar patrones sospechosos.
 - **Encryption Tool** - Cifra y descifra archivos utilizando diferentes algoritmos de cifrado.
+- **Evilness check** - Comprueba la existencia de posibles archivos maliciosos en un directorio.
 
 ## Requisitos
 
