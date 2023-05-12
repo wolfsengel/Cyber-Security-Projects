@@ -14,6 +14,7 @@ El repositorio contiene las siguientes herramientas:
 - **Encryption Tool** - Cifra y descifra archivos utilizando diferentes algoritmos de cifrado.
 - **Evilness check** - Comprueba la existencia de posibles archivos maliciosos en un directorio.
 - **Password Check** - Analiza una contraseña para determinar si es o no segura.
+- **Malware remover** - Los archivos infectados del sistema son eliminados de sus amenazas y restaurado
 
 ## Requisitos
 
