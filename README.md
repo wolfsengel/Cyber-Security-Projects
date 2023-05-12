@@ -15,6 +15,7 @@ El repositorio contiene las siguientes herramientas:
 - **Evilness check** - Comprueba la existencia de posibles archivos maliciosos en un directorio.
 - **Password Check** - Analiza una contraseña para determinar si es o no segura.
 - **Malware remover** - Los archivos infectados del sistema son eliminados de sus amenazas y restaurado
+- **Remote Desktop** - Comprueba si hay algún acceso remoto a una computadora
 
 ## Requisitos
 
